@@ -1,6 +1,8 @@
 # Weather-report-generator
 This program generates the weather report of a given city in real time .
-Python 
+Python ,Project Overview
+This is built using Python and Colab.
+
 Requests (for API calls)
 JSON (for data parsing)
 Datetime (for timestamps)
